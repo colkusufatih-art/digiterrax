@@ -1,0 +1,165 @@
+-->
+DIGITERRA | Your digital banking channel. Ready for any AI.
+top of page
+Über uns
+DIGITERRA Horizon
+Anwendungsfälle
+Kontakt
+Menu
+Close
+Kontakt
+Your digital banking channel. Ready for any AI.
+DIGITERRA Horizon
+Mehr Freiheit für die digitale Zukunft Ihrer Bank
+Die modulare Produktfamilie für moderne digitale Banking-Erlebnisse – flexibel, integrierbar und bereit für KI-gestützte Services.
+Modernisieren Sie Ihre digitale Kundenschnittstelle, bringen Sie neue Services schneller auf den Markt und entwickeln Sie Ihr digitales Banking weiter - auf Basis Ihrer bestehenden Kernbankensysteme.
+DIGITERRA Horizon entdecken
+Wenn Kundenerwartungen steigen, darf Technologie nicht bremsen
+Ihre Kunden erwarten Banking-Services, die einfach, schnell und intuitiv funktionieren. Sie vergleichen ihre Banking-App mit den digitalen Services, die sie täglich nutzen: jederzeit verfügbar, leicht verständlich und auf ihre Bedürfnisse zugeschnitten.
+Ihr Kernbankensystem bildet ein stabiles Fundament für das operative Geschäft. Komplexe Abhängigkeiten können jedoch die Weiterentwicklung Ihrer digitalen Kundenschnittstellen erschweren. Neue Funktionalitäten dauern auf Grund starrer Release-Zyklen zu lange, Integrationen sind aufwendig und langwierig.
+Mit DIGITERRA Horizon gewinnen Sie neue Gestaltungsspielräume:
+App modernisieren
+Bestehende Kernbanken-systeme weiter nutzen
+Services schneller bereitstellen
+Release-Zyklen gezielt beschleunigen
+Kundenerlebnis gestalten
+Inhalte und Funktionen flexibel weiterentwickeln
+KI-Potenziale erschließen
+Grundlage für neue Banking-Services schaffen
+DIGITERRA: Digitale Innovation mit fundierter Banking-Kompetenz
+DIGITERRA entwickelt Lösungen für moderne digitale Banking-Erlebnisse. Dabei verbinden wir technologische Umsetzungskompetenz mit langjähriger Erfahrung im Banking und einem tiefen Verständnis für die Anforderungen regulierter Finanzinstitute.
+DIGITERRA baut auf der 30-jährigen Banking-Kompetenz von CREALOGIX
+auf und führt diese Erfahrung in die Zukunft: mit modularen Lösungen, klaren Integrationskonzepten und einem konsequenten Fokus auf die digitale Kundenschnittstelle.
+Für Ihre Bank bedeutet das: Verlässlichkeit im operativen Alltag und mehr Spielraum für die kontinuierliche Weiterentwicklung Ihrer digitalen Services.
+1996/97
+2003
+2011
+2026
+Heute
+CREALOGIX - Pionier im E-Banking
+Mobile Banking im Fokus
+Digital Banking wächst weiter
+30 Jahre Banking-Kompetenz
+Mit DIGITERRA in die nächste Generation
+DIGITERRA Horizon:
+Mehr Gestaltungsfreiheit für die digitale Zukunft Ihrer Bank
+DIGITERRA Horizon ist die modulare Produktfamilie für die Weiterentwicklung digitaler Banking-Architekturen. Mit Horizon modernisieren Sie Ihre digitale Kundenschnittstelle schrittweise und integrieren neue Services gezielt, während Ihr bestehendes Kernbankensystem als stabiles Fundament erhalten bleibt. DIGITERRA Horizon steht für einen modernen, modularen Ansatz zur Weiterentwicklung digitaler Banking-Architekturen.
+DIGITERRA Horizon verbindet zwei eng aufeinander abgestimmte Komponenten:
+DIGITERRA Vega
+Ein flexibel anpassbares Frontend für Mobile und Web
+DIGITERRA Meridian
+Ein intelligentes Backend-for-Frontend als Orchestrierungsschicht zwischen Frontend und bestehender Systemlandschaft
+Darüber hinaus schafft Meridian die technologische Grundlage für KI-gestützte Services und neue Formen des Conversational Banking.
+DIGITERRA Meridian:
+Die Verbindungsschicht für flexible digitale Banking-Architekturen
+Im Zentrum von DIGITERRA Horizon steht die Orchestrierungsschicht DIGITERRA Meridian. Basierend auf einer Backend-for-Frontend-Architektur verbindet Meridian Mobile- und Web-Kanäle über vorhandene Schnittstellen (APIs) mit den relevanten Systemen der Bank. Das Kernbankensystem bleibt als stabiles Fundament erhalten.
+Statt die App direkt mit unterschiedlichen Backend-Systemen zu verknüpfen, bündelt Meridian Daten und Services an einer zentralen Stelle. Informationen aus Kernbankensystemen, bankeigenen Anwendungen und angebundenen Services werden orchestriert, für den jeweiligen Anwendungsfall zusammengeführt und passend für das Frontend aufbereitet.
+Entkopplung
+Frontend und Backend entwickeln sich unabhängig voneinander
+Orchestrierung
+Daten und Services werden zentral gebündelt und passend aufbereitet
+Performance
+Komplexe Backend-Abfragen werden reduziert und mobile Prozesse beschleunigt
+Security
+Sicherheitsmechanismen lassen sich zentral berücksichtigen
+Technologische Grundlage von DIGITERRA Vega:
+Technologische Basis
+Eine Codebasis für Mobile & Web
+Customer journeys
+flexibel gestaltbar
+DIGITERRA Vega:
+Das flexible Frontend für moderne digitale Banking-Erlebnisse
+Eine zukunftsfähige digitale Kundenschnittstelle benötigt mehr als eine leistungsfähige Architektur im Hintergrund. Deshalb umfasst DIGITERRA Horizon mit DIGITERRA Vega ein flexibel anpassbares Frontend für Mobile Banking und Web, das nahtlos mit DIGITERRA Meridian zusammenspielt.
+Vega ist keine starre Standardlösung. Banken können Customer Journeys, Benutzeroberflächen, Inhalte und Funktionen gezielt an ihre Strategie, ihr Corporate Design und die Anforderungen ihrer Kunden anpassen. Auch eigene Komponenten und externe Services lassen sich schrittweise einbinden.
+Vega basiert auf Flutter und ermöglicht die Entwicklung für iOS, Android und Web auf Basis einer gemeinsamen Codebasis. Dadurch reduziert sich der Entwicklungsaufwand. Neue Funktionen können effizienter umgesetzt und konsistent über die verschiedenen Kanäle hinweg bereitgestellt werden.
+So gewinnen Banken mehr Kontrolle über ihr digitales Kundenerlebnis und schaffen die Grundlage für eine kontinuierliche Weiterentwicklung ihrer digitalen Kundenschnittstellen.
+Bereit für KI-gestütztes Conversational Banking
+DIGITERRA Meridian schafft zugleich die Grundlage für KI-gestützte Banking-Services. Über das Model Context Protocol (MCP) können kompatible KI-Lösungen in DIGITERRA Horizon integriert und mit ausgewählten Funktionen und Daten verbunden werden.
+MCP ist ein offener Standard für die Anbindung kompatibler KI-Plattformen und -Anwendungen an DIGITERRA Meridian und wird unter anderem von OpenAI, Anthropic, Google und Microsoft unterstützt. Dadurch können bestehende und zukünftige KI-gestützte Services direkt in die Banking-Architektur eingebunden werden.
+Diese Fähigkeit eröffnet neue Möglichkeiten für die Interaktion zwischen Bank und Kunde. Statt ausschließlich durch Menüs zu navigieren oder einzelne Funktionen zu suchen, können Nutzer Fragen stellen oder Anweisungen formulieren – einfach und intuitiv.
+Banking-Services werden dialogorientierter und leichter zugänglich. Die Bank entscheidet, welche Anwendungsfälle sinnvoll sind, welche Systeme eingebunden werden und in welchem Tempo neue Services eingeführt werden.
+* mockup only
+Drei Wege zur digitalen Modernisierung
+Frontend modernisieren.
+Neue KI-Lösungen flexibel integrieren.
+Kernbankensystem schrittweise ablösen.
+Je nach Ausgangssituation setzen Banken an unterschiedlichen Punkten an. Die folgenden Use Cases zeigen, wie Banken konkrete Transformationsvorhaben mit DIGITERRA Horizon schrittweise umsetzen können.
+Frontend erneuern, Kernbankensystem bleibt unberührt
+Moderne digitale Kundenerlebnisse schaffen
+Mit DIGITERRA Meridian können Banken ihre digitalen Kanäle modernisieren, ohne das bestehende Kernbankensystem anzupassen. So gelingt die Transformation schnell, risikoarm und ohne Eingriffe in den laufenden Bankbetrieb.
+Das Szenario
+Die Bank will ihren Kunden ein modernes Frontend bieten ohne das laufende Kernbankensystem anzufassen.
+Meridian im Einsatz
+Meridian verbindet das neue Frontend über bestehende Schnittstellen mit dem Kernbankensystem.
+Der Effekt
+Frontend und Kernbankensystem entwickeln sich unabhängig weiter, weniger Aufwand, weniger Risiko, kürzere Projekte.
+Was die Bank gewinnt
+Ein modernes Kundenerlebnis auf der bestehenden Systembasis. Investitionen bleiben geschützt.
+KI-Lösungen anbinden, ohne jedes Mal neu zu bauen
+Neue KI-Lösungen schneller integrieren
+Über einen MCP-Server lassen sich kompatible KI-Lösungen gezielt an DIGITERRA Meridian anbinden und neue Anwendungsfälle schneller erproben.
+Das Szenario
+Jeder neue KI-Anbieter bedeutet bisher ein eigenes Integrationsprojekt, hoher Entwicklungs- und Wartungsaufwand.
+Meridian im Einsatz
+Meridian macht Banking-Funktionen über einen MCP-Server für kompatible KI-Lösungen zugänglich.
+Der Effekt
+Neue KI-Funktionen lassen sich gezielt testen und schrittweise ausrollen statt bei null zu starten.
+Was die Bank gewinnt
+Schnellere Markteinführung und mehr Freiheit bei der Wahl künftiger KI-Anbieter.
+Kernbankensystem wechseln. Digitaler Kanal bleibt stabil.
+Komplexe Migrationen schrittweise umsetzen
+DIGITERRA Meridian entkoppelt das Frontend von der Backend-Landschaft und schafft mehr Flexibilität bei der Modernisierung von Kernbankensystemen.
+Das Szenario
+Die Bank migriert auf ein neues Kernbankensystem oder betreibt übergangsweise mehrere parallel.
+Meridian im Einsatz
+Meridian wirkt wie ein Stossdämpfer: Es übersetzt zwischen den Systemen, der digitale Kanal nutzt weiterhin dieselben Schnittstellen.
+Der Effekt
+Kundensegmente können schrittweise migriert werden. Das Frontend muss nicht bei jeder Backend-Anpassung verändert werden.
+Was die Bank gewinnt
+Die digitale Kundenschnittstelle bleibt während der ganzen Transformation stabil und vertraut.
+Mehr Geschwindigkeit.
+Mehr Gestaltungsspielraum.
+Mehr Kontrolle.
+Schnelle Weiterentwicklung
+Neue Funktionen gezielter umsetzen
+Mehr Flexibilität
+Kundenschnittstellen schrittweise erweitern
+Stabiles Fundament
+Kernbankensysteme und Investitionen weiter nutzen
+Mehr Kontrolle
+Customer Journeys, Inhalte und Integrationen aktiv gestalten
+Offen für neue Möglichkeiten
+Services, Partnerlösungen & KI einbinden
+Industrie
+Finanzdienstleistungen
+Gegründet
+1913
+Headquarter
+Aarau, Schweiz
+Standorte
+32 Geschäftsstellen in der Schweiz
+Mitarbeiter
+1000+
+Co-Creation in der Praxis
+Gemeinsam mit der AKB zu einer neuen Generation Digital Banking
+Die Aargauische Kantonalbank hat ihre Mobile-Banking-Lösung grundlegend überarbeitet. Ziel war eine intuitive App, die ein zeitgemäßes digitales Kundenerlebnis bietet und mehr Flexibilität für die Weiterentwicklung digitaler Services schafft.
+Entstanden ist DIGITERRA Vega: die neue Frontend-Lösung der AKB. Sie basiert auf einer flexiblen Architektur mit DIGITERRA Meridian als Integrations- und Orchestrierungsschicht. Dadurch lassen sich bestehende Systeme, externe Services und neue digitale Angebote über eine gemeinsame Ebene anbinden.
+AKB und DIGITERRA haben die neue Lösung gemeinsam entwickelt: von der Analyse und Konzeption über UX- und UI-Design bis zur iterativen Umsetzung in zweiwöchigen Sprints. Nutzertests, regelmäßige Reviews und ein offener Austausch haben dafür gesorgt, dass Feedbacks frühzeitig in die Entwicklung einfließen konnten.
+Die neue Lösung bietet ein modernes digitales Banking-Erlebnis und schafft zugleich die Basis für weitere Services, zusätzliche Kanäle und KI-gestützte Interaktion.
+Das Projekt zeigt, wie anspruchsvolle digitale Lösungen erfolgreich entstehen: durch Transparenz, partnerschaftliche Zusammenarbeit und einem gemeinsamen Zielbild von Bank und Technologiepartner.
+Bereit für den nächsten Schritt?
+Ob Sie Ihre Banking-App modernisieren, neue Services schneller integrieren, KI-gestützte Banking-Erlebnisse vorbereiten oder Ihre Backend-Landschaft schrittweise weiterentwickeln möchten: DIGITERRA Horizon eröffnet Ihnen einen passenden Weg.
+Lassen Sie uns gemeinsam prüfen, welcher Modernisierungspfad zu Ihrer Bank, Ihrer Systemlandschaft und Ihrer Digital-Banking-Strategie passt.
+Gespräch vereinbaren
+Connect on LinkedIn
+DIGITERRA 2026. All rights reserved.
+Datenschutzrichtlinie
+Nutzungsbedingungen
+Impressum
+CREALOGIX
+Über uns
+DIGITERRA Horizon
+Anwendungsfälle
+Kontakt
+Go
+bottom of page

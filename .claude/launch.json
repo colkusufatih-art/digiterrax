@@ -1,0 +1,31 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "digiterra-site",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "-y",
+        "http-server",
+        "/Users/fay/Documents/DigiterradesignX/digiterra-site",
+        "-p",
+        "5173",
+        "-a",
+        "127.0.0.1",
+        "-c-1",
+        "--silent"
+      ],
+      "cwd": "/Users/fay/Documents/DigiterradesignX/digiterra-site",
+      "port": 5173
+    },
+    {
+      "name": "digiterra-portal",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "/Users/fay/Documents/DigiterradesignX/digiterra_web/portal/src/server.js"
+      ],
+      "cwd": "/Users/fay/Documents/DigiterradesignX/digiterra_web/portal",
+      "port": 5180
+    }
+  ]
+}

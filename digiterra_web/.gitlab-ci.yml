@@ -1,0 +1,9 @@
+# GitLab Pages: veröffentlicht die statische Seite (index.html + assets/) unter der Pages-Adresse des Projekts.
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp -r index.html assets datenschutzrichtlinie nutzungsbedingungen impressum public/
+  artifacts:
+    paths:
+      - public

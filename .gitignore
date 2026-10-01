@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+.env
+*.log
+*.zip
+.claude/scheduled_tasks.lock
+
+# Große Design-Rohdaten / Videos
+review/raw/
+review/**/*.mp4
+
+# verschachteltes Alt-Repo
+.git-nested-bak/
